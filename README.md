@@ -5,6 +5,7 @@
 This project focuses on analyzing a comprehensive sales dataset to extract key business insights related to revenue, profit, and sales trends. The analysis is performed using Microsoft Excel and visualized through Pivot Tables, Charts, and a Dashboard. The goal is to provide actionable insights to support data-driven decision-making.
 
  Data Cleaning Process
+ 
 ✅ Converted date columns (Order Date, Ship Date) to proper date-time format
 
 ✅ Verified that there were no missing values
