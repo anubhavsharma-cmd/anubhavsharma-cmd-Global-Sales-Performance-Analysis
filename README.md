@@ -18,6 +18,7 @@ This project focuses on analyzing a comprehensive sales dataset to extract key b
 
 📈 Key Insights
 1.  Total Revenue by Region
+2.  
 Europe and Sub-Saharan Africa generated the highest revenue (~₹171 billion each)
 
 North America recorded the lowest revenue (~₹14 billion)
@@ -25,6 +26,7 @@ North America recorded the lowest revenue (~₹14 billion)
 Middle East & North Africa showed strong performance (~₹82 billion)
 
 2.  Total Profit by Item Type
+3.  
 Top Profitable Categories:
 
 Cosmetics
@@ -55,6 +57,7 @@ Online: fewer units but higher-value items
 Online sales contributed more revenue per unit
 
 4.  Monthly Revenue & Profit Trends
+   
 Seasonal sales spikes observed
 
 Q4 had the highest sales — likely due to holidays
@@ -62,6 +65,7 @@ Q4 had the highest sales — likely due to holidays
 Identified months with lower sales, ideal for targeted promotions
 
  Pivot Table Analysis
+ 
 Revenue by Region: Identified high-performing regions
 
 Profit by Item Type: Pinpointed top-margin categories
@@ -75,6 +79,7 @@ Order Priority: Assessed how priority affects revenue & shipping
 Shipping Delays: Measured time between order and delivery
 
  Dashboard & Visualizations
+ 
 The Excel dashboard includes:
 
  Bar Chart – Revenue by Region
@@ -88,6 +93,7 @@ The Excel dashboard includes:
  Shipping Delay Histogram – Avg. Order Fulfillment Time
 
  Conclusion
+ 
 This analysis provided deep insights into global sales behavior, helping businesses:
 
 Optimize product and pricing strategies
@@ -99,6 +105,7 @@ Understand regional sales strengths
 Leverage seasonality for sales planning
 
  Future Improvements
+ 
 Implement predictive analytics to forecast trends
 
 Introduce customer segmentation to personalize strategies
@@ -107,12 +114,6 @@ Use ML models for inventory optimization
 
 Integrate real-time dashboards for live sales monitoring
 
- Files in Repository
-500000 Sales Records.xls – Raw dataset
-
-Sales_Cleaned.xlsx – Cleaned version
-
-Sales_Dashboard.xlsx – Dashboard and analysis
 
 Project Type
 Tool: Excel
